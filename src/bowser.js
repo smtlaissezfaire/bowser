@@ -74,6 +74,7 @@
         , webkit: t
         , android: t
         , mobile: t
+        , silk: t
         , version : ua.match(/silk\/(\d+(\.\d+)?)/i)[1]
         }
     if (iphone || ipad) {
